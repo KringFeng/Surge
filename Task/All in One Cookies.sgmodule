@@ -1,0 +1,10 @@
+#!name=All in One Cookies Module
+#!desc=Cookies 合集模块配置
+#!system=iOS
+
+[Script]
+GLaDOS获取Cookie = type=http-request,pattern=https:\/\/glados\.rocks\/api\/user\/status, script-path=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/glados.js
+微博超话获取Cookie = type=http-request,pattern=^https?://m?api\.weibo\.c(n|om)\/2\/(cardlist|page\/button),script-path=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/weibo/weibotalk.cookie.js
+
+[MITM]
+hostname = %INSERT%, glados.rocks, api.weibo.cn
