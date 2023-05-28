@@ -3,4 +3,8 @@
 #! author = KringFeng
 #! icon= https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png
 
-DOMAIN-SUFFIX,ulgore.net,Emby
+DOMAIN-SUFFIX,ulgore.net
+DOMAIN-SUFFIX,11.loseremby.org
+DOMAIN-SUFFIX,cf.emby.ml
+DOMAIN-SUFFIX,emby.ednovas.org
+DOMAIN-SUFFIX,cdn.embytv.cf
