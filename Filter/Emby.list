@@ -1,7 +1,7 @@
 #! name = Emby分流
 #! des = Emby常用公益服地址
 #! author = KringFeng
-#! icon= 
+#! icon= https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Emby111.png
 
 DOMAIN-SUFFIX,ulgore.net
 DOMAIN-SUFFIX,11.loseremby.org
