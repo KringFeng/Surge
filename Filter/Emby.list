@@ -1,0 +1,6 @@
+#! name = Emby分流
+#! des = Emby常用公益服地址
+#! author = KringFeng
+#! icon= https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png
+
+DOMAIN-SUFFIX,ulgore.net,Emby
